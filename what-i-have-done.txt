@@ -1,0 +1,19 @@
+8/6/21
+created app with create react app, created homepage component, created dyes directory and dyes menu component
+
+9/6/21
+tried to style dyes component
+
+10/6/21
+better styled dyes component, and created slideshow component
+
+11/6/21
+created title, that renders on top of slideshow on homepage 
+
+13/6/21
+Created customButton component for all the buttons in the page
+created footer component
+
+14/6/21
+implemented routing
+created shop page

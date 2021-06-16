@@ -1,0 +1,40 @@
+.footer{
+	background-color: #212121;
+	position: bottom;
+	bottom: 0;
+	width: 100%;
+	height: 200px;
+	color: white;
+	.about-account-follow{
+
+		display: flex;
+		flex-direction: wrap;
+		align-items: flex-start;
+		justify-content: space-between;
+		.item{
+			display: flex;
+			flex-direction: column;
+			.title{
+				//color: white;
+				font-weight: 10;
+				font-size: 22px;
+			}
+			.voice{
+				font-weight: 3;
+				font-size: 15px; 
+			}
+		}
+		.item.about{
+			margin-left: 630px;
+		}
+		.item.follow{
+			margin-right: 630px;
+		}
+	}
+	.company-informations{
+		text-align: center;
+		margin-left: 330px;
+		margin-right: 330px;
+		margin-top: 10px;
+	}
+}

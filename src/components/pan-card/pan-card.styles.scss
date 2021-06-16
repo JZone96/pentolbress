@@ -1,0 +1,33 @@
+.pan{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 10px;
+	.image{
+		width: 100%;
+		height: 90%;
+		background-size: cover;
+		background-position: center;
+		margin-bottom: 5px;
+		border-radius: 10px;
+	}
+	.informations{
+		width: 100%;
+		height: 10%;
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-start;
+		.name{
+			width: 80%;
+			margin-left: 5px;
+		}
+		.price{
+			width: 20%;
+		}
+	}
+}

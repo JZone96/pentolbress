@@ -3,8 +3,8 @@ import {withRouter} from 'react-router-dom';
 
 import './custom-button.styles.scss';
 
-const CustomButton = ({children, onClick,history, match}) =>(
-	<button className= 'button' onClick={onClick}>
+const CustomButton = ({type,children, onClick,history, match}) =>(
+	<button className={`button ${children.includes('Google')? 'Google' : 'null'}`} onClick={onClick} type={type}>
 		{children}
 	</button>
 )

@@ -1,8 +1,8 @@
 const SHOP_DATA = [
 	{
 		id: 1,
-		title: 'Julienne',
-		routeName: '/julienne',
+		title: 'Gold',
+		routeName: '/gold',
 		items:[
 			{
 				id:1,
@@ -68,8 +68,8 @@ const SHOP_DATA = [
 	},
 	{
 		id: 2,
-		title: 'Granit',
-		routeName: '/granit',
+		title: 'Pietra',
+		routeName: '/pietra',
 		items:[
 			{
 				id:1,
@@ -135,8 +135,8 @@ const SHOP_DATA = [
 	},
 	{
 		id: 3,
-		title: 'Titanio',
-		routeName: '/titanio',
+		title: 'Eclipse',
+		routeName: '/eclipse',
 		items:[
 			{
 				id:1,

@@ -17,3 +17,14 @@ created footer component
 14/6/21
 implemented routing
 created shop page
+
+17/6/21
+
+added flip animation to the dyes-menu-item
+added cards with name and price to the back of the cards
+
+21/6/21
+added sign up component and started implementing firebase
+
+22/6/21
+added sign out function to firebase and customized google button

@@ -1,0 +1,14 @@
+.signup{
+	display: flex;
+	flex-direction: column;
+	width: 40vw;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	margin-top: 5vw;
+	.submit-form{
+		display: flex;
+		flex-direction: column;
+		width:95%;
+	}
+}

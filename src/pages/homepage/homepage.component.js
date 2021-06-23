@@ -7,8 +7,6 @@ const Homepage = () =>(
 	<div className='homepage'>
 		<SlideShow/>
 		<DyesDirectory/>
-
-
 			<div className='italy-quality'>
 			</div>
 
